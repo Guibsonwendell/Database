@@ -1,0 +1,1 @@
+SELECT * FROM aula_bd.aluno;
