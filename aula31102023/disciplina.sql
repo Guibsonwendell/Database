@@ -1,0 +1,1 @@
+SELECT * FROM aula31102023.disciplina;
